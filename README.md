@@ -4,4 +4,4 @@ This tool scans the memory of a target process and extracts printable ASCII and 
 
 # Usage
 
-exe_memory_strings.exe <PID>
+exe_memory_strings.exe \<PID\>
